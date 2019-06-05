@@ -1,0 +1,11 @@
+{
+  "name": "bpmn-editor",
+  "version": "1.0.0",
+  "description": "Customizing bpmn-js for embedding.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayman Mahfouz",
+  "license": "ISC"
+}
